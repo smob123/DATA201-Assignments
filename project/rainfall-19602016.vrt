@@ -1,0 +1,9 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="rainfall-19602016">
+    <SrcDataSource relativeToVRT="1">rainfall-19602016.csv</SrcDataSource>
+    <FeatureCount>617808</FeatureCount>
+    <Field name="Date" src="Date" type="String" />
+    <Field name="Rainfall_mm" src="Rainfall_mm" type="String" />
+    <Field name="site" src="site" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

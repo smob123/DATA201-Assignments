@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="monthly-el-nino-southern-oscillation-index-19862016">
+    <SrcDataSource relativeToVRT="1">monthly-el-nino-southern-oscillation-index-19862016.csv</SrcDataSource>
+    <FeatureCount>372</FeatureCount>
+    <Field name="Month_year" src="Month_year" type="String" />
+    <Field name="Southern_oscillation_index" src="Southern_oscillation_index" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>

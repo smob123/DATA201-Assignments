@@ -1,0 +1,11 @@
+<OGRVRTDataSource>
+  <OGRVRTLayer name="annual-average-temperature-anomaly-19092013">
+    <SrcDataSource relativeToVRT="1">annual-average-temperature-anomaly-19092013.csv</SrcDataSource>
+    <FeatureCount>1793</FeatureCount>
+    <Field name="Year" src="Year" type="String" />
+    <Field name="series" src="series" type="String" />
+    <Field name="station" src="station" type="String" />
+    <Field name="data" src="data" type="String" />
+    <Field name="value" src="value" type="String" />
+  </OGRVRTLayer>
+</OGRVRTDataSource>
